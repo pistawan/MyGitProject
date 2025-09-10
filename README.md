@@ -1,5 +1,5 @@
 
- ชื่อ: นางสาว ปัณณวิชญ์ สายตา 
+ ชื่อ: พิศตะวัน สุขเกษม 
  โจทย์: รวมงานจาก Test001 และ Test002 ด้วยการสร้าง branch แล้ว merge --- 
  สิ่งที่ได้ทำ  
  1. สร้างโปรเจกต์ใหม่บนเครื่อง - โฟลเดอร์ชื่อ MyGitProject - ใช้คำสั่ง git init เพื่อเริ่มต้น Git 
@@ -9,13 +9,4 @@
 bash
 git checkout -b FromTest2
 
-![1](1.png)
-![2](./images/2.png)
-![4](./images/3.png)
-![5](./images/4.png)
-![6](./images/5.png)
-![7](./images/6.png)
-![8](./images/7.png)
-![9](./images/8.png)
-![10](./images/9.png)
-เสร็จ
+
