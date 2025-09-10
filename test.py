@@ -1,8 +1,8 @@
 def print_student_name():
     """ฟังก์ชันสำหรับพิมพ์ชื่อ-นามสกุลนักศึกษา"""
-    first_name = "ปัณณวิชญ์"
-    last_name = "สายตา"
-    student_id = "67111352"
+    first_name = "พิศตะวัน"
+    last_name = "สุขเกษม"
+    student_id = "67110835"
     
     print("=" * 40)
     print("ข้อมูลนักศึกษา")
